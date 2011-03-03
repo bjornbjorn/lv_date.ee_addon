@@ -1,0 +1,7 @@
+h1. Date type for Low Variables
+
+This is a very basic date type for Low Variables which will enable the user to select a date using the standard EE jQuery UI date chooser.
+
+To install just drop it into the /low_variables/types/ folder and activate it in the extension settings.
+
+"AddonBakery":http://www.addonbakery.com + "by:bjorn":http://www.bybjorn.com
