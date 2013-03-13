@@ -4,4 +4,4 @@ This is a very basic date type for Low Variables which will enable the user to s
 
 To install just drop it into the /low_variables/types/ folder and activate it in the extension settings.
 
-"AddonBakery":http://www.addonbakery.com + "by:bjorn":http://www.bybjorn.com
+"AddonBakery":http://wedoaddons.com/ + "by:bjorn":http://www.bybjorn.com
